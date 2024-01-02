@@ -1,1 +1,15 @@
 # Tourist-inflow-vs-TL-value
+
+The project's primary objective was to test the hypothesis that a decline in the value of the Turkish lira leads to an uptick in tourism in Turkey. To investigate this, the project employed data related to tourist arrivals from different countries, currency exchange rates (including the Russian ruble, euro, and British pound), and the Turkish Consumer Price Index (CPI) to scrutinize the connection between the Turkish lira's value and the tourism industry.
+
+The project made extensive use of the Python programming language and several libraries like pandas, openpyxl, and matplotlib to manipulate, visualize, and analyze the data. Data was extracted from Excel files that contained information on tourist arrivals from various nations, exchange rates, and CPI values.
+
+Initially, the project concentrated on studying the overall trend in tourist numbers over the years. It visualized this data through line graphs that depicted the annual tourist arrivals in Turkey. These graphs were further improved with labels, gridlines, and custom tick labels to enhance their clarity.
+
+Subsequently, the project delved into examining the connection between tourist arrivals from specific countries (such as Russia, Germany, and the UK) and the exchange rates of their respective currencies (such as the ruble, euro, and British pound). Bar charts were employed to represent tourist numbers, while line graphs illustrated currency exchange rates. These visualizations were aimed at highlighting any potential correlations between currency fluctuations and tourism figures.
+
+Furthermore, the project scrutinized the Turkish CPI and its impact on the purchasing power of the Turkish lira. A line graph was utilized to display the CPI's fluctuations over time, indicating changes in the Turkish lira's value. The project also identified the top nationalities of tourists visiting Turkey by processing the data and presenting the proportions of the top 30 nationalities in a pie chart.
+
+Ultimately, the project's statistical analysis yielded a p-value exceeding 0.05, implying that no statistically significant relationships or differences were found among the variables examined. This suggests that any observed associations or distinctions could be attributed to random variation or other factors lacking statistical significance. While these results do not conclusively rule out the possibility of a relationship, further research and analysis are essential to provide more robust evidence. It is crucial to interpret these findings cautiously and consider alternative explanations.
+
+To summarize, the project delivered a comprehensive exploration of the correlation between the depreciation of the Turkish lira, currency exchange rates, and tourism in Turkey. Through the application of various data visualization techniques, it provided clear insights into the interplay of these factors. The project's findings and visual representations can offer valuable insights for policymakers, economists, and stakeholders in the tourism sector seeking to comprehend and assess the impact of currency depreciation on tourism in Turkey.
